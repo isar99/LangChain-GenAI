@@ -39,13 +39,3 @@ chain = template | model | parser
 result = chain.invoke({"place": "Japan"})
 
 print(result)
-
-# prompt = template.invoke({"place": "New York"})
-
-# result = model.invoke(prompt)
-
-# print(result.content)
-
-# final_result = parser.parse(result.content)
-
-# print(final_result)
