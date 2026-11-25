@@ -34,3 +34,5 @@ streamlit
 google
 
 pydantic
+
+grandalf # for drawing chain graphs
